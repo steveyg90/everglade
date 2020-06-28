@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="3" height="1" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="foundation.xml" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../Tiles/Tiles.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="3" height="1" opacity="0.98">
+  <data>
+   <tile gid="774"/>
+   <tile gid="775"/>
+   <tile gid="776"/>
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="6" height="10" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="shrub1.xml" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../Tiles.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="6" height="10" opacity="0.98">
+  <data>
+   <tile gid="2067"/>
+   <tile gid="2068"/>
+   <tile gid="2069"/>
+   <tile gid="2070"/>
+   <tile gid="2071"/>
+   <tile gid="2072"/>
+   <tile gid="2195"/>
+   <tile gid="2196"/>
+   <tile gid="2197"/>
+   <tile gid="2198"/>
+   <tile gid="2199"/>
+   <tile gid="2200"/>
+   <tile gid="2323"/>
+   <tile gid="2324"/>
+   <tile gid="2325"/>
+   <tile gid="2326"/>
+   <tile gid="2327"/>
+   <tile gid="2328"/>
+   <tile gid="2451"/>
+   <tile gid="2452"/>
+   <tile gid="2453"/>
+   <tile gid="2454"/>
+   <tile gid="2455"/>
+   <tile gid="2456"/>
+   <tile gid="2579"/>
+   <tile gid="2580"/>
+   <tile gid="2581"/>
+   <tile gid="2582"/>
+   <tile gid="2583"/>
+   <tile gid="2584"/>
+   <tile gid="2707"/>
+   <tile gid="2708"/>
+   <tile gid="2709"/>
+   <tile gid="2710"/>
+   <tile gid="2711"/>
+   <tile gid="2712"/>
+   <tile gid="2835"/>
+   <tile gid="2836"/>
+   <tile gid="2837"/>
+   <tile gid="2838"/>
+   <tile gid="2839"/>
+   <tile gid="2840"/>
+   <tile gid="2835"/>
+   <tile gid="2836"/>
+   <tile gid="2837"/>
+   <tile gid="2838"/>
+   <tile gid="2839"/>
+   <tile gid="2840"/>
+   <tile gid="2835"/>
+   <tile gid="2836"/>
+   <tile gid="2837"/>
+   <tile gid="2838"/>
+   <tile gid="2839"/>
+   <tile gid="2840"/>
+   <tile gid="2835"/>
+   <tile gid="2836"/>
+   <tile gid="2837"/>
+   <tile gid="2838"/>
+   <tile gid="2839"/>
+   <tile gid="2840"/>
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="7" height="25" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="../Tiles.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="7" height="25" opacity="0.98">
+  <data>
+   <tile gid="2853"/>
+   <tile gid="2854"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="2601"/>
+   <tile gid="3242"/>
+   <tile gid="3243"/>
+   <tile gid="2981"/>
+   <tile gid="2982"/>
+   <tile gid="2471"/>
+   <tile gid="2472"/>
+   <tile gid="2473"/>
+   <tile gid="3370"/>
+   <tile gid="3371"/>
+   <tile gid="3109"/>
+   <tile gid="3110"/>
+   <tile gid="2599"/>
+   <tile gid="2600"/>
+   <tile gid="2601"/>
+   <tile gid="3370"/>
+   <tile gid="3371"/>
+   <tile gid="3237"/>
+   <tile gid="3238"/>
+   <tile gid="2727"/>
+   <tile gid="2728"/>
+   <tile gid="2729"/>
+   <tile gid="3370"/>
+   <tile gid="3371"/>
+   <tile gid="3365"/>
+   <tile gid="3366"/>
+   <tile gid="3367"/>
+   <tile gid="3368"/>
+   <tile gid="3369"/>
+   <tile gid="3370"/>
+   <tile gid="3371"/>
+   <tile gid="3493"/>
+   <tile gid="3494"/>
+   <tile gid="3495"/>
+   <tile gid="3496"/>
+   <tile gid="3497"/>
+   <tile gid="3498"/>
+   <tile gid="3499"/>
+   <tile gid="3621"/>
+   <tile gid="3622"/>
+   <tile gid="3623"/>
+   <tile gid="3624"/>
+   <tile gid="3625"/>
+   <tile gid="3626"/>
+   <tile gid="3627"/>
+   <tile gid="3749"/>
+   <tile gid="3750"/>
+   <tile gid="3751"/>
+   <tile gid="3752"/>
+   <tile gid="3753"/>
+   <tile gid="3754"/>
+   <tile gid="3755"/>
+   <tile gid="3877"/>
+   <tile gid="3878"/>
+   <tile gid="3879"/>
+   <tile gid="3880"/>
+   <tile gid="3881"/>
+   <tile gid="3882"/>
+   <tile gid="3883"/>
+   <tile gid="4005"/>
+   <tile gid="4006"/>
+   <tile gid="4007"/>
+   <tile gid="4008"/>
+   <tile gid="4009"/>
+   <tile gid="4010"/>
+   <tile gid="4011"/>
+   <tile gid="4133"/>
+   <tile gid="4134"/>
+   <tile gid="4135"/>
+   <tile gid="4136"/>
+   <tile gid="4137"/>
+   <tile gid="4138"/>
+   <tile gid="4139"/>
+   <tile gid="4261"/>
+   <tile gid="4262"/>
+   <tile gid="4263"/>
+   <tile gid="4264"/>
+   <tile gid="4265"/>
+   <tile gid="4266"/>
+   <tile gid="4267"/>
+   <tile gid="4389"/>
+   <tile gid="4390"/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile gid="4394"/>
+   <tile gid="4395"/>
+   <tile gid="4517"/>
+   <tile gid="4518"/>
+   <tile gid="4519"/>
+   <tile gid="4520"/>
+   <tile gid="4521"/>
+   <tile gid="4522"/>
+   <tile gid="4523"/>
+   <tile gid="4645"/>
+   <tile gid="4646"/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile gid="4650"/>
+   <tile gid="4651"/>
+   <tile gid="4773"/>
+   <tile gid="4774"/>
+   <tile gid="4519"/>
+   <tile gid="4520"/>
+   <tile gid="4521"/>
+   <tile gid="4778"/>
+   <tile gid="4779"/>
+   <tile/>
+   <tile/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4519"/>
+   <tile gid="4520"/>
+   <tile gid="4521"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4519"/>
+   <tile gid="4520"/>
+   <tile gid="4521"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4519"/>
+   <tile gid="4520"/>
+   <tile gid="4521"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4391"/>
+   <tile gid="4392"/>
+   <tile gid="4393"/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile/>
+   <tile gid="4519"/>
+   <tile gid="4520"/>
+   <tile gid="4521"/>
+   <tile/>
+   <tile/>
+  </data>
+ </layer>
+</map>
